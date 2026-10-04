@@ -5,3 +5,8 @@ target/
 
 # Configs locais com credenciais
 config/application.properties
+
+# Arquivos de IDE (Eclipse / extensão Java)
+.classpath
+.project
+.settings/
