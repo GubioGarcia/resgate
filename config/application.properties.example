@@ -1,0 +1,5 @@
+# Modelo de configuracao. Copie para config/application.properties e preencha os valores.
+# NAO coloque valores reais neste arquivo: ele e versionado.
+db.user=
+db.password=
+api.token=
